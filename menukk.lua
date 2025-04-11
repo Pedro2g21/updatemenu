@@ -1,6 +1,6 @@
 local imgui = require 'imgui' 
 function imgui.OnDrawFrame()
-  imgui.Begin('My window')
+  imgui.Begin('One modz viado')
   imgui.End() 
 end
 
