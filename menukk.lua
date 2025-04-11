@@ -1,5 +1,4 @@
-local imgui = require 'imgui' -- загружаем библиотеку
-
+local imgui = require 'imgui' 
 function imgui.OnDrawFrame()
   imgui.Begin('My window')
   imgui.End() 
