@@ -1,7 +1,12 @@
-[
-  {
-    "usuario": "SCARLLET",
-    "senha": "MENUFREE"
-  },
-]
-
+{
+  "usuarios": [
+    {
+      "usuario": "admin",
+      "chave": "1234"
+    },
+    {
+      "usuario": "joao",
+      "chave": "senhaSegura"
+    }
+  ]
+}
