@@ -1,12 +1,6 @@
 {
-  "usuarios": [
-    {
-      "usuario": "admin",
-      "chave": "1234"
-    },
-    {
-      "usuario": "joao",
-      "chave": "senhaSegura"
-    }
-  ]
+    "usuarios": [
+        {"usuario": "user1", "chave": "pass1"},
+        {"usuario": "user2", "chave": "pass2"}
+    ]
 }
