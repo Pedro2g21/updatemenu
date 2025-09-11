@@ -4,7 +4,7 @@ local newFrame = imgui.OnFrame(
     function() return true end,
     function(player)
         imgui.Begin("Main Window")
-        imgui.Text("Hello")
+        imgui.Text("daaa")
         imgui.End()
     end
 )
@@ -12,3 +12,4 @@ local newFrame = imgui.OnFrame(
 function main()
     wait(1)
 end
+
